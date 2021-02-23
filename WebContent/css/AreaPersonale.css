@@ -1,0 +1,64 @@
+#titolo{
+	font-size : 20px;
+	font-weight : bold ;
+	
+}
+
+.card {
+	background-color :#FFEEB5 !important;
+}
+
+.corpo{
+	font-size : 16px;
+	font-weight : 400;
+}
+
+a:link{
+	color:black;
+}
+
+a:visited{
+	color : black ;
+}
+
+a:active {
+	color : black ;
+}
+
+#form{
+	display : none;
+}
+
+.wrapper {
+    min-height: 50%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -100px; 
+.footer, .push {
+    height: 142px; 
+}
+
+.error {
+		background-color: #ff6666;
+		}
+
+
+#close{
+	margin-top:10px;	
+	background-color: #00BDAA;
+	border: 1px solid white;
+}
+
+#edit{
+	color: #FFEEB5;
+	border-color: #FFEEB5;
+}
+
+#editBadge{
+	background-color: #00BDAA;
+	border: 1px solid white;
+}
+
+#logout{
+	color: white;
+}

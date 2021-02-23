@@ -1,0 +1,44 @@
+
+.titolo{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-weight : bold ;
+	font-size : 200% ; 
+
+}
+
+label{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size : 120% ; 
+}
+
+a:link {
+  color: black ;
+   text-decoration: none;
+}
+
+a:visited {
+  color: black ;
+   text-decoration: none;
+}
+
+a:hover {
+  color: #00BDAA;
+
+}
+
+a:active {
+   color:blak;
+  	text-decoration: none;
+}
+
+#prezzo{
+	color : white;
+}
+
+html, body {
+    height:100% ;
+}
+
+#del{
+	color: black;
+}

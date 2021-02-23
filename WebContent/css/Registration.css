@@ -1,0 +1,34 @@
+
+p{
+font-size : 22px ;
+}
+
+a:link {
+
+   text-decoration: none;
+}
+
+a:visited {
+
+   text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+  color:#00BDAA;
+
+}
+
+a:active {
+   color:#00BDAA;
+  	text-decoration: none;
+}
+
+#passHelp{
+	font-size : 13px;
+}
+
+.btn-outline-primary{
+		color: #FFEEB5;
+	border-color: #FFEEB5;
+}

@@ -1,0 +1,51 @@
+
+td {
+	font-size : 21px;
+	color: white;
+}
+
+th, td {
+  padding:20px;
+}
+
+ th {
+	border: 1px solid red;
+}
+
+#totale{
+	font-size: 25px;
+}
+
+#acquista{
+	padding : 25px;
+	
+}
+
+#btnGroupDrop1{
+	background-color : #48B072 !important;
+	border :0;
+	border-radius: 0 !important;
+	color : #FFEEB5 ;
+}
+
+.dropdown-menu{
+	background-color :  #48B072;
+}
+
+#vuoto{
+	color: #FFEEB5;
+}
+
+#acq{
+	background-color: #00BDAA;
+	border: 1px solid white;
+	color: white;
+}
+
+#svuota{
+	color:white;
+}
+
+.dropdown-menu{
+	background-color: #48B072 !important;
+}

@@ -1,0 +1,58 @@
+ .carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  .carousel .item {
+  height: 300px;
+}
+
+.item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+#demo {
+  height: 10;
+  width: 10;
+  overflow: hidden;
+}
+
+html, body {
+    height:100% ;
+}
+
+#titolo{
+	font-size : 45px;
+}
+
+.wrapper {
+    min-height: 50%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -100px; 
+}
+.footer, .push {
+    height: 142px; 
+}
+
+.zoom {
+  height: auto;
+  padding: 1px;
+  background-color: #589DF0;
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  z-index : 4;
+   max-width: 100%;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.5); 
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.8); 
+}
+
+
+

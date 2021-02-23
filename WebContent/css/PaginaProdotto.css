@@ -1,0 +1,59 @@
+.zoom {
+  height: auto;
+  padding: 1px;
+  background-color: #589DF0;
+  transition: transform .2s;
+  width: 1px;
+  height: 1px;
+  margin: 0 auto;
+  z-index : 4;
+   max-width: 100%;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.5); 
+  -webkit-transform: scale(1.5); 
+  transform: scale(1.7); 
+}
+
+.col-sm-8{
+	font-size : 20px;
+	 z-index : 2;
+}
+
+.card{
+	margin-left : auto;
+	margin-right : auto;
+}
+
+body{
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif ;
+}
+
+.card-title{
+	font-weight : 500;
+	font-size :35px;
+}
+
+.card-body{
+	font-size :20px;
+}
+
+#formhead{
+	font-size : 35px;
+}
+
+.wrapper {
+    min-height: 50%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -100px; 
+}
+.footer, .push {
+    height: 142px; 
+}
+
+#agg{
+	color: #FFEEB5;
+	border-color:#FFEEB5;
+}

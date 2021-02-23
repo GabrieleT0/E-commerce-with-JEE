@@ -1,0 +1,31 @@
+body{
+	font-family : "Lucida Sans Unicode", "Lucida Grande", sans-serif !important;
+}
+
+#totale{
+	
+	font-size: 35px;
+}
+
+#titolo{
+	font-size: 40px;
+}
+
+#pay{
+	font-size : 25px;
+}
+
+#ritiro{
+	font-size : 23px;
+}
+
+.btn-light{
+	background-color : #48B072;
+}
+
+#info{
+	border-radius: 50%;
+	font-size:15px;
+	background-color:#D1C07D;
+	border: none;
+}
